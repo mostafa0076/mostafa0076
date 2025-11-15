@@ -4,7 +4,7 @@
   <img src="https://github.com/mostafa0076/mostafa0076/blob/main/8d9b0cc5-9bfd-4d47-90ed-494d0b567fe7.png" alt="Mostafa Elsharqawi Banner" width="100%">
 </p>
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=Hi+👋%2C+I'm+Mostafa+Elsharqawi;Machine+Learning+Engineer;AI+%7C+Deep+Learning+%7C+NLP+%7C+Computer+Vision"  />
+
 </p>
 </p>
 
