@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <p align="center">
   <p align="center">
-  <img src="https://github.com/mostafa0076/mostafa0076/blob/main/8d9b0cc5-9bfd-4d47-90ed-494d0b567fe7.png" alt="Mostafa Elsharqawi Banner" width="100%">
+  <img src="https://github.com/mostafa0076/mostafa0076/blob/main/ChatGPT Image 13 يناير 2026، 08_24_29 م.png" alt="Mostafa Elsharqawi Banner" width="100%">
 </p>
   <p align="center">
 
